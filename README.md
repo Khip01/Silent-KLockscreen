@@ -100,3 +100,14 @@ chmod +x uninstall.sh
 - **Target Path:** `/usr/share/plasma/shells/org.kde.plasma.desktop/contents/lockscreen`
 - **Logic:** Replaced `sddm.login()` with `authenticator.respond(password)`.
 - **Styling:** Uses a `SilentConfig.qml` singleton to manage theme variables without a native SDDM theme engine.
+
+---
+
+## 💻 Testing Environment
+This port has been developed and tested on the following system:
+- **OS:** openSUSE Leap 16 (64-bit)
+- **KDE Plasma Version:** 6.4.2
+- **KDE Frameworks Version:** 6.16.0
+- **Qt Version:** 6.9.1
+- **Graphics Platform:** Wayland
+- **Base Theme:** SilentSDDM v1.4.2
