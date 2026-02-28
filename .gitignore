@@ -1,0 +1,6 @@
+.vscode/
+*.txt
+*.bak
+.DS_Store
+Thumbs.dbs
+*.log
