@@ -1,6 +1,6 @@
 # Silent KLockscreen Port (Plasma 6)
 
-This project is a manual visual port of the beautiful [SilentSDDM](https://github.com/uiriansan/SilentSDDM) theme by @uiriansan, specifically modified to work with the native **KDE Plasma 6 Lockscreen** (kscreenlocker).
+This project is a manual visual port of the beautiful [SilentSDDM](https://github.com/uiriansan/SilentSDDM) theme by [@uiriansan](https://github.com/uiriansan), specifically modified to work with the native **KDE Plasma 6 Lockscreen** (kscreenlocker).
 
 > [!CAUTION]
 > **USE AT YOUR OWN RISK.** This project modifies critical system files in `/usr/share/plasma/`. I am not responsible for any broken systems, black screens, or if you get locked out of your desktop. Always ensure you have a terminal (TTY) or SSH access before proceeding. **Read the "How to Test" section carefully!**
@@ -90,7 +90,7 @@ chmod +x uninstall.sh
 ## Credits
 
 - **Original Artwork & Design:** All credit goes to [uiriansan](https://github.com/uiriansan), the creator of SilentSDDM.
-- **Porting:** Ported to Plasma 6 by [Khip01](https://github.com/Khip01) to bridge the visual gap between SDDM and the KDE Lockscreen.
+- **Porting:** Ported to Plasma 6 by [Khip01](https://github.com/Khip01)/me to bridge the visual gap between SDDM and the KDE Lockscreen.
 - **License:** Distributed under the same license as the original project (GPL-3.0).
 
 ---
