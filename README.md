@@ -9,10 +9,10 @@ This project is a manual visual port of the beautiful [SilentSDDM](https://githu
 
 ## Visual Proof-of-Concept
 
-| Original Plasma 6                                                      | Ported Silent Look                                           |
-| ---------------------------------------------------------------------- | ------------------------------------------------------------ |
-| ![Original](https://i.ibb.co.com/Zz339NBY/KLock-Screen-Original-1.png) | ![Mod](https://i.ibb.co.com/gZG3vrtF/KLock-Screen-Mod-1.png) |
-| ![Original](https://i.ibb.co.com/1f1PMtvZ/KLock-Screen-Original-2.png) | ![Mod](https://i.ibb.co.com/DDNxJZRN/KLock-Screen-Mod-2.png) |
+| Original Plasma 6                                                                            | Ported Silent Look                                                                      |
+| -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| ![Original](https://github.com/user-attachments/assets/03f0f2a0-a995-4e8f-8f9d-cbb1270b6344) | ![Mod](https://github.com/user-attachments/assets/5c675196-bea6-432c-a09b-a1b202a3e6e6) |
+| ![Original](https://i.ibb.co.com/1f1PMtvZ/KLock-Screen-Original-2.png)                       | ![Mod](https://i.ibb.co.com/DDNxJZRN/KLock-Screen-Mod-2.png)                            |
 
 ---
 
