@@ -70,7 +70,11 @@ To achieve the animated background look (MP4/WebM) as seen in some SilentSDDM pr
 ```
 
 > [!NOTE]
-> _The path might vary by distribution. If not found, try searching for the `kscreenlocker_greet` binary._
+> _The path might vary by distribution (e.g., `/usr/libexec/` or `/usr/lib/`). If the command above returns "no such file or directory", you can find the correct path for your system by running:_
+> ```bash
+> find /usr -name kscreenlocker_greet 2>/dev/null
+> ```
+> _Once found, run that specific path with the `--testing` flag._
 
 **If the window opens and looks correct**, you are safe to lock your screen (Press `Meta+L`). If it crashes or shows a "broken QML" message, run the recovery script immediately.
 
