@@ -7,32 +7,28 @@ assignees: Khip01
 
 ---
 
-**Describe the bug**
+## Bug Description
 A clear and concise description of what the bug is.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+## Steps to Reproduce
+Steps to reproduce the behavior, preferably using the safe testing method:
+1. Run the testing command in terminal: `/usr/lib64/libexec/kscreenlocker_greet --testing`
+2. Perform action X...
+3. See error...
 
-**Expected behavior**
+## Expected Behavior
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## System Environment
+Because this is a QML shell port, system versions are critical. Please provide your setup details:
+* **OS / Distro:** (e.g., openSUSE Leap, Arch Linux, Fedora)
+* **KDE Plasma Version:** (e.g., 6.4.2)
+* **KDE Frameworks Version:** (e.g., 6.16.0)
+* **Qt Version:** (e.g., 6.9.1)
+* **Graphics Platform:** [Wayland / X11]
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+## Screenshots / Video / Gif
+If applicable, add screenshots, a short video, or a GIF showing the behavior in the `--testing` window to help explain your problem.
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+## Additional Context
+Add any other context about the problem here. (e.g., Are you using any specific KWin scripts? Did you modify `SilentConfig.qml`?)
